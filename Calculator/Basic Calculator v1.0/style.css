@@ -1,0 +1,26 @@
+table {
+    border: 0.15rem inset black ;
+    border-radius: 7.5%;
+    padding: 0.5rem;
+    background-color: #adb5bd;
+    margin: auto;
+}
+
+.clear {
+    color: red;
+}
+
+#result {
+    margin: 0.20rem;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+
+.buttons {
+    width: 2rem;
+    height: 2rem;
+    margin: 0rem;
+    border-radius: 50%;
+    border-style: inset;
+}
